@@ -2,4 +2,6 @@ Hi, I'm just asking to compile this for me, it's a change to the success screen 
 
 
 
-I didn't change anything in the original files. Just a change in the success screen. I'm just asking you to compile this for me. Thank you for your attention. 
+I didn't change anything in the original files. Just a change in the success screen. I'm just asking to compile to .xex
+
+The reason I didn't do this? I don't have a PC, I only have a cell phone, and compiling using a cell phone is a lot of work and there's no guarantee that I'll succeed.
